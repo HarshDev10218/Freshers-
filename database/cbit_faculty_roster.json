@@ -1,0 +1,242 @@
+[
+  {
+    "name": "M. Tirupathi Rao",
+    "designation": "Assistant Professor (JR Faculty)",
+    "department": "Mathematics",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "JR Faculty"
+  },
+  {
+    "name": "Dr. K. Laxmi",
+    "designation": "Professor (JR Faculty)",
+    "department": "Chemistry",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "JR Faculty"
+  },
+  {
+    "name": "Dr. K. Sukanth",
+    "designation": "Assistant Professor (JR Faculty)",
+    "department": "Electrical and Electronics Engineering (EEE)",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "JR Faculty"
+  },
+  {
+    "name": "Ms. Shamia Karim",
+    "designation": "Assistant Professor (JR Faculty)",
+    "department": "Information Technology (IT)",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "JR Faculty"
+  },
+  {
+    "name": "Ms. M. Lavanya",
+    "designation": "Assistant Professor (JR Faculty)",
+    "department": "Artificial Intelligence & Machine Learning (AI&ML)",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "JR Faculty - CSE (AI & ML)"
+  },
+  {
+    "name": "Dr. Swatmaram",
+    "designation": "Associate Professor & HOD",
+    "department": "Mathematics",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Mathematics Department HOD"
+  },
+  {
+    "name": "Prof. B. Sreenivasa Reddy",
+    "designation": "Professor & HOD",
+    "department": "Physics",
+    "faculty_group": "Junior Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Physics Department HOD"
+  },
+  {
+    "name": "Dr. M. Mukunda Vani",
+    "designation": "Professor & HOD",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Chemical Engineering Head of Department"
+  },
+  {
+    "name": "Dr. Ravi Gujjula",
+    "designation": "Adjunct Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. P. V. Naga Prapurna",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. N. L. N. Reddy",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. Mekala Mallaiah",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Sri I. Balakrishna",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. P. Madhuri",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. B. Ganesh",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. Prasanna Rani R",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. Seriyala Anil Kumar",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Dr. Snigdha Saha",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": ""
+  },
+  {
+    "name": "Sri M. Laxmana Chary",
+    "designation": "Technician Grade I",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Technical Staff"
+  },
+  {
+    "name": "Sri V. Sanjeeva Reddy",
+    "designation": "Technician Grade III",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Technical Staff"
+  },
+  {
+    "name": "Mr. N. Raj Kumar",
+    "designation": "Administrative Executive",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Administration"
+  },
+  {
+    "name": "Mrs. Siddam Mounika",
+    "designation": "Administrative Executive",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Administration"
+  },
+  {
+    "name": "Mrs. Palabindela Anitha",
+    "designation": "Lab Technician Grade III (Contract)",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Laboratory Staff"
+  },
+  {
+    "name": "Mr. G. Raju",
+    "designation": "Special Grade Attender",
+    "department": "Chemical Engineering",
+    "faculty_group": "Our Batch Faculty",
+    "status": "Not invited",
+    "invited_by": null,
+    "invited_at": null,
+    "notes": "Department Attender Staff"
+  }
+]
